@@ -1,5 +1,5 @@
 # Mapping_Earthquakes
-Mapping Earthquake data using Leaflet.JS and Mapbox API
+Mapping Earthquake data using Leaflet.JS, D3.JS and Mapbox API
 
 ## Purpose
 The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days. This is showed as an overlay with techtonic plates and also major earthquakes (magnitude>4) highlighted as well.
