@@ -170,7 +170,7 @@ L.geoJson(data, {
 }).addTo(majEq);
   // 9. Close the braces and parentheses for the major earthquake data.
   });
-  
+majEq.addTo(map);  
   // Here we create a legend control object.
 let legend = L.control({
   position: "bottomright"
